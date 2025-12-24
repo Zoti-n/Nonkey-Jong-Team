@@ -5,6 +5,7 @@
 </div>
 
 
+[![Download](https://img.shields.io/badge/📦%20TRADUÇÃO_3.0_legenda_pt_br-AQUI%20-2ea44f?style=for-the-badge)](https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view)
 
 
 
