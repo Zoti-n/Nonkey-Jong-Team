@@ -30,10 +30,14 @@
   
 
 
-🔹Uma que mantém a diversidade de idiomas, dublando apenas os personagens originalmente em inglês para o português.
-(Recomendado casoseja sua primeira experiencia)
+🔹 <b>Dublagem Parcial</b> — mantém a diversidade de idiomas, dublando apenas os personagens originalmente em inglês para o português.  
+<small>(Recomendado caso seja sua primeira experiência)</small>
 
-🔸E outra em que todos os personagens, independentemente do idioma, estarão dublados (Para você que já jogou e quer uma nova experiência com Ena). 
+<br>
+
+🔸 <b>Dublagem Completa</b> — todos os personagens, independentemente do idioma, estarão dublados.  
+<small>(Para você que já jogou e quer uma nova experiência com Ena)</small>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view">
