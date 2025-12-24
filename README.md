@@ -5,7 +5,7 @@
 </div>
 
 
-[![Tradução PT-BR](xp_ena1.png)](https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view)
+[![Tradução PT-BR](xp_ena.png)](https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view)
 
 
 <div align="">
