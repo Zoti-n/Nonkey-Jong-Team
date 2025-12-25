@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view">
-    <img src="xp_ena_legenda" width="200">
+    <img src="xp_ena_legenda.png" width="200">
   </a>
 
  ---
