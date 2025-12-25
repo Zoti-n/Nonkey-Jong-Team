@@ -45,7 +45,7 @@
   </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="xp_ena_complete.png" width="200">
+    <img src="xp_ena_completa.png" width="200">
   </a>
 </p>
 
