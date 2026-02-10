@@ -57,12 +57,14 @@
 
 ### Créditos Capítulo 1:
 
-<b>Zoti</b> ▸ Tradução 〢 Programação 〢 Vídeos e Imagens<br>
-<b>Solurio</b> ▸ Programação<br>
+
+
 <b>Demetrius</b> ▸ Tradução 〢 Programação 〢 Revisão<br>
+<b>Zoti</b> ▸ Tradução 〢 Programação 〢 Vídeos e Imagens<br>
 <b>Iggy</b> ▸ Tradução 〢 Vídeos e Imagens<br>
 <b>Pasokad</b> ▸ Tradução 〢 Vídeos e Imagens<br>
 <b>Sam</b> ▸ Tradução<br>
+<b>Solurio</b> ▸ Programação<br>
 <b>Apolo</b> ▸ Revisão<br><br>
 <b>Abigail_8bits</b> ▸ Ajuda em 3D<br>
 <b>Bixin</b> ▸ Ajuda em 3D
