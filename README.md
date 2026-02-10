@@ -8,7 +8,7 @@
  <p>⚠️ LEGENDA:<br>
   </div>
   
-###  oh Lee:
+###  LEGENDA:
 
   A legenda inclui a tradução de todos os diálogos, textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.
 
