@@ -52,7 +52,11 @@
 
 
 ---
-
+### Créditos:
+<div align="center">
+ <p>⚠️ Este é um projeto de fã para fã, não é oficial e não temos qualquer relação com o Joel G. e sua equipe. ⚠️<br>
+Esse trabalho não seria possivel sem a contribuição desse pessoal.
+  </div>
 ### ⚠️ Aviso importante:
 
 ❓ Dúvidas ou problemas?
