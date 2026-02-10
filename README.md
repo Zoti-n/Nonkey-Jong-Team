@@ -55,7 +55,7 @@
 
 ---
 
-### Créditos Capítulo 1:
+### Créditos Capítulo 1: Porta Solitária
 
 
 
