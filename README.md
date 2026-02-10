@@ -9,6 +9,8 @@
  <p>Um jogo criado por Joel G.<br>
   </div>
   
+  ---
+  
 ###  LEGENDA:
 
   A legenda inclui a tradução de todos os diálogos, textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.
@@ -19,11 +21,8 @@
   </a>
 
  ---
-<div align="center">
- <p>⚠️ DUBLAGEM:<br>
-  </div>
-  
-###  O mod conta com duas versões:
+
+###  DUBLAGEM:
 
 
 
@@ -36,8 +35,7 @@
 
 <br>
 
-🔸 <b>Dublagem Completa</b> — todos os personagens, independentemente do idioma, estarão dublados.  
-<small>(Para você que já jogou e quer uma nova experiência com Ena)</small>
+
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,6 +47,9 @@
     <img src="xp_ena_completa.png" width="200">
   </a>
 </p>
+
+🔸 <b>Dublagem Completa</b> — todos os personagens, independentemente do idioma, estarão dublados.  
+<small>(Para você que já jogou e quer uma nova experiência com Ena)</small>
 
 
 
