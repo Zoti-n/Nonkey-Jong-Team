@@ -61,7 +61,7 @@ Esse trabalho não seria possivel sem a contribuição desse pessoal.
 <b>Vídeos e Imagens:</b> Iggy, Zoti, Pasokad<br>
 <b>Tradução:</b> Iggy, Zoti, Demetrius, Sam, G4bs, Miint<br>
 <b>Revisão:</b> Apolo, Demetrius<br>
-<b>Ajuda em 3D:</b> Abigail_8bits, Abbygail<br>
+<b>Ajuda em 3D:</b> Abigail_8bits (Abbygail)<br>
 
 ### ⚠️ Aviso importante:
 
