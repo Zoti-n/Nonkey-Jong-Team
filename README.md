@@ -4,6 +4,9 @@
   <p>🇧🇷 Fã tradução do jogo: ENA: Dream BBQ 🎭<br>
 
 ![Discord](https://img.shields.io/discord/1355536478704373972?style=flat&logo=discord)
+![X (formerly Twitter) Siga](https://img.shields.io/twitter/follow/%40nonkeyjongtrans)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCybbEnpGuTmuSPSqz88O3EA)
+
 </div>
 
   ---
