@@ -1,8 +1,11 @@
 
+
+ 
 <div align="center">
-  <h1>Nós somos a equipe Nonkey Jong Team</h1>
+  <h1>Nós somos a equipe Nonkey Jong Team  <img src="br_jongs.png" width="50"> </h1>
   <p>🇧🇷 Fã tradução do jogo: ENA: Dream BBQ 🎭<br>
   Por Joel Guerra
+  
 
 ![Discord](https://img.shields.io/discord/1355536478704373972?style=flat&logo=discord)<br>
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Zoti-n/Nonkey-Jong-Team)
