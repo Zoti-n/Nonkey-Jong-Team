@@ -55,7 +55,7 @@ Está tendo problemas? Não tema! Entre em contato com a gente pelo nosso servid
 * #### Mac <br>
 Aí é foda. (Não oferecemos suporte ainda :P)<br>
 * #### Links diretos
-Temos notado que a tradução está circulando por meio de uploads não oficiais. Pedimos que não façam isso, é fácil uma versão antiga se espalhar enquanto uma nova já está disponível. Por isso que privamos versões antigas. Se for postar em fóruns, grupos ou servidores, recomendamos que use o link oficial do nosso *Github* e/ou do nosso *servidor no Discord*. Não nos responsabilizamos por quaisquer danos à sua segurança, vindo de outras versões.
+Temos notado que a tradução está circulando por meio de uploads não oficiais. Pedimos que não façam isso, é fácil uma versão antiga se espalhar enquanto uma nova já está disponível. Por isso nós privamos versões antigas. Se for postar em fóruns, grupos ou servidores, recomendamos que use o link oficial do nosso *Github* e/ou do nosso *servidor no Discord*. Não nos responsabilizamos por quaisquer danos à sua segurança, vindo de outras versões.
 ## Créditos Capítulo 1: Porta Solitária
 <b>Demetrius</b> ▸ Tradução 〢 Programação 〢 Revisão<br>
 <b>Zoti</b> ▸ Tradução 〢 Programação 〢 Vídeos e Imagens<br>
