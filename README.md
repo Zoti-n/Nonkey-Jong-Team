@@ -10,11 +10,11 @@
 
 
 [![Discord](https://img.shields.io/discord/1355536478704373972?style=flat&logo=discord&label=Discord)](https://discord.gg/WDAzMdNwxn)<br>
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Zoti-n/Nonkey-Jong-Team)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Zoti-n/Nonkey-Jong-Team/total)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Zoti-n/Nonkey-Jong-Team?style=flat&label=Tamanho%20)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Zoti-n/Nonkey-Jong-Team/total?style=flat&label=Download)
 <br>
-[![X (formerly Twitter) Siga](https://img.shields.io/twitter/follow/%40nonkeyjongtrans)](https://x.com/nonkeyjongtrans)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCybbEnpGuTmuSPSqz88O3EA)](https://www.youtube.com/@NonkeyJongTeam)
+[![X (formerly Twitter) Siga](https://img.shields.io/twitter/follow/%40nonkeyjongtrans?&logo=x&label=nonkeyjongtrans)](https://x.com/nonkeyjongtrans)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCybbEnpGuTmuSPSqz88O3EA?&logo=youtube&label=YouTube)](https://www.youtube.com/@NonkeyJongTeam)
 </div>
 <div align="center">
  <p> Este é um projeto de fã para fã, não é oficial e não temos qualquer relação com o Joel G. e sua equipe.<br><br>
