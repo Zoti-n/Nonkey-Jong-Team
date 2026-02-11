@@ -23,13 +23,6 @@
  ---
 
 ###  DUBLAGEM:
-
-
-
-
-  
-
-
 🔹 <b>Dublagem Parcial</b> — mantém a diversidade de idiomas, dublando apenas os personagens originalmente em inglês para o português.  
 <small>(Recomendado caso seja sua primeira experiência)</small>
 
