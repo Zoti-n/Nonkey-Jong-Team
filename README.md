@@ -9,7 +9,7 @@
 
 
 
-[![Discord](https://img.shields.io/discord/1355536478704373972?style=flat&logo=discord&label=Discord)](https://discord.gg/WDAzMdNwxn)<br>
+[![Discord](https://img.shields.io/discord/1355536478704373972?style=flat&logo=discord&label=Discord&color=7289da)](https://discord.gg/WDAzMdNwxn)<br>
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Zoti-n/Nonkey-Jong-Team?style=flat&label=Tamanho%20)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Zoti-n/Nonkey-Jong-Team/total?style=flat&label=Download)
 <br>
